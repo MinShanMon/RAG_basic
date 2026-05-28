@@ -1,0 +1,3 @@
+when root user assin license key, it is appearing (you don't own this license).
+Root user don't have to own. This is error.
+/// Completed
